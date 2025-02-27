@@ -1,0 +1,9 @@
+# Unity-specific files
+Library/
+Logs/
+Temp/
+UserSettings/
+Packages/
+# Other files
+.vsconfig
+ignore.conf
